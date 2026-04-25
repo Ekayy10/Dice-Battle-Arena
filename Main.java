@@ -36,7 +36,6 @@ public class Main {
         fighters.add(new Fighter("Gladiator", 95, 11));
 
         System.out.println("=== DICE BATTLE ARENA ===\n");
-
         // Show starting stats
         for (Fighter f : fighters) {
             System.out.println(f);
